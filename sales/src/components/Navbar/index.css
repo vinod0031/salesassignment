@@ -1,0 +1,26 @@
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.navbarclass{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: black;
+    height: 50px;
+    align-items: center;
+    
+}
+.companylogo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}

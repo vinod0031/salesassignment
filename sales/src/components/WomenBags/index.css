@@ -1,0 +1,30 @@
+.container{
+    border: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+
+.bagsize{
+    height: 300px;
+    width: 250px;
+    shape-image-threshold: inherit;
+}
+
+.liststyles{
+    list-style: none;
+}
+
+.mrp{
+    font-weight: bold;
+}
+
+.price{
+    color: red;
+}
+
+.dprice{
+    color: green;
+}
